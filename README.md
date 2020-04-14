@@ -9,7 +9,7 @@
 ![](app.gif)
 
 ## 💻 Projeto
-Game desenvolvido na enginne [Godot](https://godotengine.org/) 
+Game desenvolvido na engine [Godot](https://godotengine.org/) 
 você pode conferir o game 👉 [Quero jogar](https://rafaelvsc.github.io/game-flappy-pombo/)
 
 ---
